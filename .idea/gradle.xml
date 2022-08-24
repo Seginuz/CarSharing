@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Car Sharing/task" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/Car Sharing/task" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Car Sharing/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Set average" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/The product of squares" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Сollect parameter" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Odd and even" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Reverse sorting" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Disjunct all" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Finding max and min elements" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Statements about stream operations" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Downstream collectors" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/The total sum of transaction by each account" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/groupingBy parameters" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Generating cats" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Powers of two" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Count words without repetitions" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Sorting the absolute values" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
+            <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Getting the greater speedup" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Inverting streams" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Parallel reducing" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Range quadratic sum" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Bad words detecting" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Check if a number is prime" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Numbers filtering" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Omitting long strings" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Counting words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The sum of odd numbers" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The ten most frequent words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The total sum of canceled transactions" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/A stream without zero" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Producing streams" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The average salary" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The default value of summary statistics" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Secret codes" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
